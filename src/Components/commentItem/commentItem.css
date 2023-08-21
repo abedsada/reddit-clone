@@ -1,0 +1,12 @@
+.Comment{
+    margin-bottom: 8px;
+    background-color: #fcfcfc;
+    padding: 1%;
+    font-size: 14px;
+}
+.Comment__right span{
+    color: blue;
+}
+.Comment__right{
+    display: flex;
+}
