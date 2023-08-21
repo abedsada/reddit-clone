@@ -53,7 +53,7 @@ function SideBar() {
       </ul>
       <div id="sidenav__footer">
 
-        <p><a href='https://github.com/abedsada' target='_blank' className="fontNav">Source <span>Code</span></a></p>
+        <p><a href='https://github.com/abedsada/reddit-clone' target='_blank' className="fontNav">Source <span>Code</span></a></p>
         <p><a href='https://abedsada.github.io/Portfolio-Website/' target='_blank' className="fontNav">Contact</a></p>
       </div>
     </div>
